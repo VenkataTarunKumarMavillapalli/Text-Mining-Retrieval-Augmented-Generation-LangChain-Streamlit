@@ -1,3 +1,16 @@
+PyPDF2
+PdfReader
+langchain
+CharacterTextSplitter
+vectorstores
+Chroma
+chains.react 
+ReAct
+embeddings
+SBERTEmbeddings
+llms 
+GPT4All
+util
 streamlit
 plotly
 pandas
