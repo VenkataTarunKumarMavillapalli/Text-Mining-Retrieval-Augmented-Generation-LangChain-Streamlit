@@ -1,7 +1,6 @@
 PyPDF2
 PdfReader
 langchain
-CharacterTextSplitter
 vectorstores
 Chroma
 chains.react 
