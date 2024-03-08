@@ -1,4 +1,4 @@
-# Text - Mining - Final Project. - Retrieval-augmented generation (RAG) - (PDF-Bot with LLMs)
+# Text - Mining - Final Project - Retrieval-augmented generation (RAG) - (PDF-Bot with LLMs)
 ![Langchain](https://github.com/VenkataTarunKumarMavillapalli/Text-Mining-Streamlit/assets/121502018/4b4b57ee-04d4-4619-a1b5-2856cd4fba5a)
 
 
