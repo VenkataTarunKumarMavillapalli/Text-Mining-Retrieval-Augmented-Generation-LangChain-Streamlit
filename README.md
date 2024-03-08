@@ -1,4 +1,6 @@
 # Text - Mining - Final Project. (PDF-Bot with LLMs)
+![Langchain](https://github.com/VenkataTarunKumarMavillapalli/Text-Mining-Streamlit/assets/121502018/4b4b57ee-04d4-4619-a1b5-2856cd4fba5a)
+
 
 Our Streamlit application allows users to interact with PDF documents using
 conversational artificial intelligence (AI). Users can upload PDF files, ask
